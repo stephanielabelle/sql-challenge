@@ -4,6 +4,7 @@
 ### Objective
 This project organizes the Pewlett Hackard employee database from the 1980s and 1990s using PostgreSQL.
 
+### Project Description
 The employee and company data was provided in 6 different csv files.  
 
 The csv files are within this repository's [Resources](Resources) folder and contain the following information:
