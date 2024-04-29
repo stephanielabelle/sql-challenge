@@ -1,5 +1,4 @@
-# Module 9 Challenge
-## SQL Challenge
+## SQL
 
 ### Objective
 This project organizes the Pewlett Hackard employee database from the 1980s and 1990s using PostgreSQL.
